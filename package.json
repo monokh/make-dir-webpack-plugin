@@ -1,0 +1,25 @@
+{
+  "name": "make-dir-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Make directory webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monokh/make-dir-webpack-plugin.git"
+  },
+  "keywords": [
+    "make directory",
+    "directory",
+    "webpack",
+    "plugin"
+  ],
+  "author": "monokh (https://monokh.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monokh/make-dir-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/monokh/make-dir-webpack-plugin#readme"
+}
