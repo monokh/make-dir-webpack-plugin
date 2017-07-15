@@ -1,5 +1,8 @@
 # make-dir-webpack-plugin
+[![npm version](https://badge.fury.io/js/make-dir-webpack-plugin.svg)](https://badge.fury.io/js/make-dir-webpack-plugin)
+
 Make directories in webpack compilation
+
 Useful when another webpack plugin depends on a directory existing
 
 ## Installation
