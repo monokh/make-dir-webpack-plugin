@@ -1,6 +1,6 @@
 {
   "name": "make-dir-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Make directory webpack plugin",
   "main": "index.js",
   "scripts": {
