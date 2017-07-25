@@ -1,5 +1,6 @@
 # make-dir-webpack-plugin
 [![npm version](https://badge.fury.io/js/make-dir-webpack-plugin.svg)](https://badge.fury.io/js/make-dir-webpack-plugin)
+by [Monokh](https://monokh.com)
 
 Make directories in webpack compilation
 
@@ -33,3 +34,8 @@ module.exports = {
   ]
 };
 ```
+
+## Change Log
+
+### 0.1.0
+- Fixed bug that didn't allow nested directories to be created.
